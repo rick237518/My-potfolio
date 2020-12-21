@@ -1,0 +1,15 @@
+.cardc{
+  position:relative;
+  cursor:pointer;
+}
+.cardt{
+  position:absolute;
+  bottom:10px;
+  font-weight: bold;
+  left:619px;
+  top:5px;
+}
+.shopping-icon{
+width: 30px;
+height:24px;
+}

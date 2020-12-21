@@ -1,0 +1,10 @@
+.Shop{
+  display: flex;
+  grid:1fr 1fr 1fr;
+  grid-direction:flex;
+
+  flex-direction: column;
+  padding: 20px 80px;
+  align-items: center;
+
+}
